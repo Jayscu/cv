@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 7px;
+  width: 3%
+}
+
+h1 {
+  color: #2F5D62;
+  font-style: oblique;
+}
+
+h3 {
+  color: #5E8B7E;
+  font-style: italic;
+}
